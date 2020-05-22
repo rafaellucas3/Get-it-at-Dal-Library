@@ -2,7 +2,7 @@
     "manifest_version": 2,
   
     "name": "Get it at Dal Library",
-    "description": "Automatically redirects the currently open tab to the Dalhousie University EzProxy. This will allow you to get access to the databases which Dal libraries give access as quickly as possible.",
+    "description": "Automatically redirects the currently open tab to the Dal Library EzProxy to get access to the databases as quickly as possible.",
     "version": "1.0",
   
     "browser_action": {

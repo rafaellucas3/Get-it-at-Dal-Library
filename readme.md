@@ -2,6 +2,10 @@
 
 A Chrome/Edge extension that automatically redirects the currently open tab to the Dalhousie University EzProxy. This will allow you to get access to the databases which Dal Libraries give access as quickly as possible.
 
+## See it in action
+
+![Demo](inaction.gif)
+
 ## How to install
 
 1. Download the "Get it at Dal Library.zip" file to your computer.
